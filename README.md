@@ -1,1 +1,4 @@
-# Conv-MPN---Final-Project
+Citation Prediction using GAN
+
+This project addresses the issue of including irrelevant citations in scholarly articles, which undermines research integrity and slows down access to reliable information and in some cases may even have a negative effect on the writers. Existing approaches to tackle this problem, such as manual screening and expert reviews do exist, but these methods suffer from subjectivity and inadequate accuracy. By utilizing Generative Adversarial Networks (GANs) and gaining insights from "A Link Prediction Algorithm Based on GAN" [1].
+This project introduces a different approach. It involves creating a citation graph and utilizing the GAN-based algorithm to predict missing citations, enabling the assessment of their relevance. Successful predictions indicate probable relevance, while unsuccessful predictions suggest likely irrelevance.
